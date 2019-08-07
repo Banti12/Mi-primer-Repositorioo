@@ -69,6 +69,6 @@ server.get('/',function (req,res){
     res.send('<h1> Express </h1>');
 });
 server.listen(3000,()=>{
-    console.log('Server on port 3000'.red);
+    console.log('Server on port 3000'.blue);
 });
 
