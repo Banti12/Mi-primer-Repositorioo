@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Curso de NodeJs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.17.1",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "desarrollo": "node index.js"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "El Banti",
+  "license": "ISC"
+}
